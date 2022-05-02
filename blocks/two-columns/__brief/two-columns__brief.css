@@ -1,0 +1,9 @@
+@import url(../../../styles/variables.css);
+
+.two-columns__brief {
+  width: 175px;
+  color: var(--blue);
+  font-size: 18px;
+  line-height: 1.2;
+  font-weight: normal;
+}
