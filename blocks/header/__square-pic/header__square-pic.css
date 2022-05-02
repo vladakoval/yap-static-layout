@@ -1,0 +1,10 @@
+@import url(../../../styles/variables.css);
+
+.header__square-pic {
+  height: 568px;
+  width: 568px;
+  background-color: var(--blue);
+  position: absolute;
+  right: 0;
+  top: 64px;
+}
