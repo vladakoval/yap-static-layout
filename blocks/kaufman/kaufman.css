@@ -1,0 +1,6 @@
+@import url(../../styles/variables.css);
+
+.kaufman{
+  padding-top: 90px;
+  background-color: var(--black);
+}

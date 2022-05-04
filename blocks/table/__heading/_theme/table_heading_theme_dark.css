@@ -1,0 +1,9 @@
+@import url(../../../../styles/variables.css);
+
+.table__heading_theme_dark {
+  background-color: var(--black);
+  color: var(--white);
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: 700;
+}
