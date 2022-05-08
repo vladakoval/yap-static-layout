@@ -1,0 +1,5 @@
+.table__cell_theme_dark {
+  background-color: var(--black);
+  color: var(--white);
+  width: 200px;
+}
