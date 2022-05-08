@@ -1,5 +1,3 @@
-@import url(../../../styles/variables.css);
-
 .two-columns__brief {
   width: 175px;
   color: var(--blue);
