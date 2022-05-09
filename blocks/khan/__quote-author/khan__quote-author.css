@@ -1,6 +1,6 @@
-.table__heading_theme_dark {
-  color: var(--white);
+.khan__quote-author {
   line-height: 1.15;
   font-size: 24px;
   font-weight: 700;
+  padding-top: 50px;
 }
