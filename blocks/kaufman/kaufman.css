@@ -2,4 +2,6 @@
   padding-top: 90px;
   background-color: var(--black);
   padding-bottom: 90px;
+  overflow: hidden;
+  position: relative;
 }
